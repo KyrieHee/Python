@@ -14,6 +14,7 @@ rtsp_path_dahua = "rtsp://%s:%s@%s/cam/realmonitor?channel=%d&subtype=0" % (user
 https://blog.csdn.net/xiejiashu/article/details/38523437
 最新（2017）海康摄像机、NVR、流媒体服务器、回放取流RTSP地址规则说明 - 2017年05月13日 10:51:46 xiejiashu
 rtsp_path_hikvison = "rtsp://%s:%s@%s//Streaming/Channels/%d" % (user, pwd, ip, channel)
+rtsp://admin:123456@172.16.111.240:554/h264/ch1/main/av_stream
 https://blog.csdn.net/xiejiashu/article/details/71786187
 """
 
